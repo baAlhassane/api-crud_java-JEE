@@ -1,0 +1,1 @@
+Cette application conçoit un API REST CRUD avec Java JEE et les Servelet et une base de données MySql.
